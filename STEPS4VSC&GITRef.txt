@@ -1,0 +1,23 @@
+Create a directory in the computer
+Open directory in VSC
+
+In the terminal open GitBash
+commands:
+git init
+
+add empty files to the folders (create all required files)
+
+gid add .
+git commit -m "message"
+
+Now files are in staging.
+
+Create a repo in GIT
+copy https key from clone to clone
+
+In gitbash:
+command: git remote add origin "paste the key"
+
+command: git push -u origin master
+
+you can also create branches and push to new branch instead of master
