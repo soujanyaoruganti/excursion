@@ -1,0 +1,30 @@
+h1 {
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    align-items: center;
+}
+body {
+    background-color: black;
+    text-align: center;
+}
+.dwexccls {
+    color: aquamarine;
+    font-size: 16px;
+}
+#personaltravelid {
+    font-family: verdana;
+    font-weight: 300px;
+    font-size: 42px;
+}
+footer {
+    text-align: right;
+    color: gray;
+}
+#wrapper { margin: 15px;
+    padding: 15px;
+    width: 960px;
+    background-color: #B3C7E6;
+    color: #000066; 
+}	  
